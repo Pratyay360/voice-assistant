@@ -28,5 +28,5 @@
 <h3>✅ Add more websites for 'open' command :</h3>
 <p>In 20th line of virtualassistant.py you will find a dictionary named "website_list". Add more website in the dictionary</p>
 
-<h3>✅ Customize Name Of Virtual Assistance :</h3>
+<h3>✅ Customize Name Of Virtual Assistant :</h3>
 <p>At 13th line of virtualassistant.py , "virtual_assistant_name" variable is present. It is set to 'alexa'. You can give any name to your virtual assistant.</p>
