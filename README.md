@@ -1,4 +1,4 @@
-<h2>💠 Your Own Virtual Assistance (Alexa) 💠</h2>
+<h2>💠 Your Own Virtual Assistant💠</h2>
 <h4>If you like 💚💚💚 , please give a star ✯✯✯ in this repository</h4>
 <h3>✅ Setup Instructions : </h3>
 <ul>
